@@ -9,6 +9,8 @@ public class love{
 
 		System.out.println("我觉得我们还能抢救下。。。叫救护车");
 
+		System.out.println("救护车出车祸了");
+
 	}	
 
 

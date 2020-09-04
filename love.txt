@@ -11,6 +11,10 @@ public class love{
 
 		System.out.println("救护车出车祸了");
 
+		System.out.println("救护车再次出发了 over 小郭修改");
+
+
+
 	}	
 
 
